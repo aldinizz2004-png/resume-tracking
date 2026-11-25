@@ -1,0 +1,150 @@
+{
+  "candidates": [
+    {
+      "id": 1,
+      "fullName": "Lina Haddad",
+      "email": "lina.haddad@mail.com",
+      "phone": "+970 599 120 331",
+      "position": "Frontend Developer",
+      "appliedAt": "2026-11-20",
+      "status": {
+        "name": "Interview",
+        "interviewDate": "2026-11-28"
+      }
+    },
+    {
+      "id": 2,
+      "fullName": "Omar Nasser",
+      "email": "omar.nasser@mail.com",
+      "phone": "+970 568 440 912",
+      "position": "Backend Developer",
+      "appliedAt": "2026-11-18",
+      "status": {
+        "name": "UnderReview"
+      }
+    },
+    {
+      "id": 3,
+      "fullName": "Sara Khalil",
+      "email": "sara.khalil@mail.com",
+      "phone": "+970 597 331 208",
+      "position": "UI/UX Designer",
+      "appliedAt": "2026-11-17",
+      "status": {
+        "name": "Accepted"
+      }
+    },
+    {
+      "id": 4,
+      "fullName": "Yazan Odeh",
+      "email": "yazan.odeh@mail.com",
+      "phone": "+970 599 874 120",
+      "position": "Full Stack Developer",
+      "appliedAt": "2026-11-15",
+      "status": {
+        "name": "Rejected",
+        "reason": "Position was filled"
+      }
+    },
+    {
+      "id": 5,
+      "fullName": "Dana Shreim",
+      "email": "dana.shreim@mail.com",
+      "phone": "+970 569 220 774",
+      "position": "QA Engineer",
+      "appliedAt": "2026-11-14",
+      "status": {
+        "name": "Submitted"
+      }
+    },
+    {
+      "id": 6,
+      "fullName": "Khaled Barghouti",
+      "email": "khaled.b@mail.com",
+      "phone": "+970 598 662 031",
+      "position": "DevOps Engineer",
+      "appliedAt": "2026-11-12",
+      "status": {
+        "name": "UnderReview"
+      }
+    },
+    {
+      "id": 7,
+      "fullName": "Maya Zaid",
+      "email": "maya.zaid@mail.com",
+      "phone": "+970 592 018 445",
+      "position": "Frontend Developer",
+      "appliedAt": "2026-11-10",
+      "status": {
+        "name": "Interview",
+        "interviewDate": "2026-11-30"
+      }
+    },
+    {
+      "id": 8,
+      "fullName": "Ahmad Jaber",
+      "email": "ahmad.jaber@mail.com",
+      "phone": "+970 599 505 616",
+      "position": "Backend Developer",
+      "appliedAt": "2026-11-09",
+      "status": {
+        "name": "Submitted"
+      }
+    },
+    {
+      "id": 9,
+      "fullName": "Nour Samara",
+      "email": "nour.samara@mail.com",
+      "phone": "+970 567 903 288",
+      "position": "UI/UX Designer",
+      "appliedAt": "2026-11-06",
+      "status": {
+        "name": "Rejected"
+      }
+    },
+    {
+      "id": 10,
+      "fullName": "Tariq Aweidah",
+      "email": "tariq.a@mail.com",
+      "phone": "+970 594 771 090",
+      "position": "Full Stack Developer",
+      "appliedAt": "2026-11-04",
+      "status": {
+        "name": "Accepted"
+      }
+    },
+    {
+      "id": 11,
+      "fullName": "Reem Daraghmeh",
+      "email": "reem.d@mail.com",
+      "phone": "+970 599 312 457",
+      "position": "QA Engineer",
+      "appliedAt": "2026-11-02",
+      "status": {
+        "name": "UnderReview"
+      }
+    },
+    {
+      "id": 12,
+      "fullName": "Hassan Qasem",
+      "email": "hassan.q@mail.com",
+      "phone": "+970 568 118 902",
+      "position": "Frontend Developer",
+      "appliedAt": "2026-10-29",
+      "status": {
+        "name": "Submitted"
+      }
+    },
+    {
+      "fullName": "Izz Mansour",
+      "email": "aldinizz2004@gmail.com",
+      "phone": "0592604369",
+      "position": "Full Stack Developer",
+      "appliedAt": "2026-11-01",
+      "status": {
+        "name": "Accepted"
+      },
+      "id": 13
+    }
+  ]
+}
